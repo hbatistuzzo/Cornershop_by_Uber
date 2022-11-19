@@ -8,8 +8,15 @@
 Project status: In Progress
 <p align="right"><img src="https://coursereport-production.imgix.net/uploads/school/logo/84/original/logo-ironhack-blue.png?w=200&h=200&dpr=1&q=7" width="40%" alt="Logo"></p>
 
-# Project objective
+# Project Summary
 
+<p align="right"><img src="images/UberCornershop.png" width="40%" alt="Logo"></p>
+Cornershop, now acquired by Uber, is a Latin American delivery startup focused on groceries/specialty store services. This project is based on their Business Intelligence challenge for Data Analysts, which aims to optimize their
+daily operation. Their business runs in more than 20 cities, reaching tens of thousands of orders per day. Hence, in their words, "One key element to determine how many orders we can accept, when we must begin to work on an order and also, 
+at which time can we promise delivery to the customer, is the **time estimation**."
+
+Given a database comprised of 4 tables, `Orders table`, `Order_Product table`, `Shoppers table` and `Storebranch table`, The goal is to answer a set of questions regarding their operation.
+ 
 ---
 
 # Technologies
@@ -28,6 +35,18 @@ Project status: In Progress
 ---
 
 # Project Description
+
+## Questions from the case
+
+1. Calculate the number of orders per day of the week, distinguishing if the orders are on_demand.
+
+2. Calculate the average quantity of distinct products that each order has, grouped by store
+
+3. Calculate the average found rate(*) of the orders grouped by the product format and day of the week.
+
+4. Calculate the average error and mean squared error of our estimation model for each hour of the day.
+
+5. Calculate the number of orders in which the picker_id and driver_id are different.
 
 ---
 
