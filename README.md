@@ -10,10 +10,11 @@ Project status: In Progress
 
 # Project Summary
 
+<img src="images/UberCornershop.png" align="right" width="40%"/>
 Cornershop, now acquired by Uber, is a Latin American delivery startup focused on groceries/specialty store services. This project is based on their Business Intelligence challenge for Data Analysts, which aims to optimize their
 daily operation. Their business runs in more than 20 cities, reaching tens of thousands of orders per day. Hence, in their words, "One key element to determine how many orders we can accept, when we must begin to work on an order and also, 
 at which time can we promise delivery to the customer, is the **time estimation**."
-<img src="images/UberCornershop.png" align="right" width="40%"/>
+
 
 Given a database comprised of 4 tables, `Orders table`, `Order_Product table`, `Shoppers table` and `Storebranch table`, The goal is to answer a set of questions regarding their operation.
  
